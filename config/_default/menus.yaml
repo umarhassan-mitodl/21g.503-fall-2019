@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 589f499d-7ba0-ec19-8c5d-d760c29e117e
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4e0719b6-4b1b-d0c4-47e5-f83ddd33a2c7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4e53ed32-26d3-1ced-4e6d-ed3f99127d69
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: ed624928-7699-c20e-d31f-4e314970e3b4
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: ec008341-65eb-4610-a099-722bfa5e6ebc
+  name: Exams
+  pageRef: /pages/exams
+  weight: 50
+- identifier: 5bbdfe0a-5017-ffd8-8cf7-e530695248a3
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 60
