@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2019",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Japanese"
+    ]
+  ],
+  "legacy_uid": "1df802d7-7bfa-fa3a-56fe-9b267a79c200",
+  "instructors": {
+    "content": [
+      "a5691d44-4ed0-67fc-77c2-ba2830da98b3",
+      "31238652-a2de-828f-8ad4-8789f6effa9e",
+      "47067355-0b09-3ad1-0744-4e41e967c04b",
+      "810c4946-912d-227f-253e-ce381c298547"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f31e8839-88f5-ca75-8736-f61cc9cc9904",
+    "website": "21g-503-japanese-iii-fall-2019"
+  },
+  "course_title": "Japanese III",
+  "course_description": "Students further develop their skills in Japanese speaking, listening, reading, and writing in this intermediate language course. This course involves continued vocabulary and kanji building.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.503",
+  "course_image_thumbnail": {
+    "content": "f4ea41ef-0741-77f3-1bbd-4116978df8cd",
+    "website": "21g-503-japanese-iii-fall-2019"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Instructor Insights",
+    "Written Assignments"
+  ],
+  "site_uid": "1068ca51-1b0a-4f0a-8a60-c9043daa8484",
+  "site_short_id": "21g.503-fall-2019",
+  "site_url_path": "courses/21g-503-japanese-iii-fall-2019",
+  "title": "Course Metadata"
+}
